@@ -15,7 +15,22 @@ struct RestaurantInfo: Codable {
     let building_number: String
     let crawling_name: String?
     let id: Int
+    let opening_hours: OpeningHours
 }
+
+struct OpeningHours: Codable {
+    let weekdays: MealTimes
+    let saturdays: MealTimes
+    let sundays: MealTimes
+}
+
+struct MealTimes: Codable {
+    let breakfast: [String]?
+    let lunch: [String]?
+    let dinner: [String]?
+    let full: [String]?
+}
+
 
 struct MenuItem {
     let breakfast: String?

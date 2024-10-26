@@ -1,0 +1,14 @@
+# Xcode
+*.xcuserdatad
+*.xcworkspace
+xcuserdata/
+*.xcscmblueprint
+DerivedData/
+*.hmap
+*.ipa
+
+# Build products
+build/
+*.app
+*.dSYM
+
