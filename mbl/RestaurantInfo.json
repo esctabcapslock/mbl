@@ -1,0 +1,303 @@
+[
+    {
+        "longitude": "126.94851",
+        "name": "75-1동 푸드코트",
+        "name_en": "Food Court(75-1)",
+        "latitude": "37.45647",
+        "building_number": "75-1",
+        "id": 0
+    },
+    {
+        "longitude": "126.95079",
+        "name": "공간",
+        "name_en": "Gong-Gan",
+        "latitude": "37.45727",
+        "building_number": "30-2",
+        "crawling_name": "공대간이식당",
+        "id": 1
+    },
+    {
+        "longitude": "126.95387",
+        "name": "교수회관식당(양식, 2층)",
+        "name_en": "SNU Faculty Club Western Restaurant(2F)",
+        "latitude": "37.45781",
+        "building_number": "65",
+        "id": 2
+    },
+    {
+        "longitude": "126.95387",
+        "name": "교수회관식당(한식, 1층)",
+        "name_en": "SNU Faculty Club Korean Restaurant(1F)",
+        "latitude": "37.45781",
+        "building_number": "65",
+        "id": 3
+    },
+    {
+        "longitude": "126.94812006718699",
+        "name": "나인온스(500동점)",
+        "name_en": "9ounce Burger (500)",
+        "latitude": "37.4592190840394",
+        "building_number": "500",
+        "id": 4
+    },
+    {
+        "longitude": "126.9557",
+        "name": "나인온스(76동점)",
+        "name_en": "9ounce Burger (76)",
+        "latitude": "37.46073",
+        "building_number": "76",
+        "id": 5
+    },
+    {
+        "longitude": "126.95175",
+        "name": "동원생활관식당",
+        "name_en": "Dongwon Cafeteria",
+        "latitude": "37.46504",
+        "building_number": "113",
+        "crawling_name": "동원관식당",
+        "id": 6
+    },
+    {
+        "longitude": "126.94851",
+        "name": "두레미담",
+        "name_en": "Duremidam",
+        "latitude": "37.45647",
+        "building_number": "75-1",
+        "crawling_name": "두레미담",
+        "id": 7
+    },
+    {
+        "longitude": "126.95175",
+        "name": "라운지오",
+        "name_en": "Lounge O",
+        "latitude": "37.46504",
+        "building_number": "113",
+        "id": 8
+    },
+    {
+        "longitude": "126.95062",
+        "name": "락구정",
+        "name_en": "Rakkujeong",
+        "latitude": "37.4549",
+        "building_number": "38",
+        "id": 9
+    },
+    {
+        "longitude": "126.95247",
+        "name": "롯데리아",
+        "name_en": "Lotteria",
+        "latitude": "37.45903",
+        "building_number": "62-1",
+        "id": 10
+    },
+    {
+        "longitude": "126.95896",
+        "name": "르네상스",
+        "name_en": "Renaissance",
+        "latitude": "37.46792",
+        "building_number": "125",
+        "id": 11
+    },
+    {
+        "longitude": "126.95206",
+        "name": "봉구스밥버거",
+        "name_en": "Bongousse",
+        "latitude": "37.4552",
+        "building_number": "44-1",
+        "id": 12
+    },
+    {
+        "longitude": "126.95062",
+        "name": "비비큐 프리미엄",
+        "name_en": "BBQ Cafe Premium",
+        "latitude": "37.4549",
+        "building_number": "38",
+        "id": 13
+    },
+    {
+        "longitude": "126.95175",
+        "name": "사르샤",
+        "name_en": "SARSHA",
+        "latitude": "37.46504",
+        "building_number": "113",
+        "id": 14
+    },
+    {
+        "longitude": "126.95896",
+        "name": "샹그릴라",
+        "name_en": "Shangri-La",
+        "latitude": "37.46792",
+        "building_number": "125",
+        "id": 15
+    },
+    {
+        "longitude": "126.95312",
+        "name": "아름드리",
+        "name_en": "Areumdri",
+        "latitude": "37.46193",
+        "building_number": "74",
+        "crawling_name": "예술계식당",
+        "id": 16
+    },
+    {
+        "longitude": "126.95782",
+        "name": "아워홈",
+        "name_en": "Ourhome cafeteria",
+        "latitude": "37.46204",
+        "building_number": "901",
+        "id": 17
+    },
+    {
+        "longitude": "126.95424",
+        "name": "웰스토리",
+        "name_en": "Wellstory Cafeteria",
+        "latitude": "37.46451",
+        "building_number": "220",
+        "crawling_name": "220동식당",
+        "id": 18
+    },
+    {
+        "longitude": "126.95952",
+        "name": "웰스토리",
+        "name_en": "Wellstory Cafeteria",
+        "latitude": "37.46588",
+        "building_number": "940",
+        "id": 19
+    },
+    {
+        "longitude": "126.95102",
+        "name": "이라운지 서울대점(1층)",
+        "name_en": "E.LOUNGE(1F)",
+        "latitude": "37.44862",
+        "building_number": "310",
+        "id": 20
+    },
+    {
+        "longitude": "126.95252",
+        "name": "자하연식당(2층)",
+        "name_en": "Jahayeon Cafeteria(2F)",
+        "latitude": "37.46098",
+        "building_number": "109",
+        "crawling_name": "자하연식당 2층",
+        "id": 21
+    },
+    {
+        "longitude": "126.95252",
+        "name": "자하연식당(3층)",
+        "name_en": "Jahayeon Cafeteria(3F)",
+        "latitude": "37.46098",
+        "building_number": "109",
+        "crawling_name": "자하연식당 3층",
+        "id": 22
+    },
+    {
+        "longitude": "126.94851",
+        "name": "전망대 3식당(3층)",
+        "name_en": "Cafeteria No.3(3F)",
+        "latitude": "37.45647",
+        "building_number": "75-1",
+        "crawling_name": "3식당",
+        "id": 23
+    },
+    {
+        "longitude": "126.94851",
+        "name": "전망대 3식당(4층)",
+        "name_en": "Cafeteria No.3(4F)",
+        "latitude": "37.45647",
+        "building_number": "75-1",
+        "crawling_name": "75-1동 4층 푸드코트",
+        "id": 24
+    },
+    {
+        "longitude": "126.95259",
+        "name": "제1공학관식당",
+        "name_en": "Engineering AND Research Center 1 Cafeteria",
+        "latitude": "37.45016",
+        "building_number": "301",
+        "crawling_name": "301동식당",
+        "id": 25
+    },
+    {
+        "longitude": "126.95265",
+        "name": "제2공학관식당",
+        "name_en": "Engineering AND Research Center 2 Cafeteria",
+        "latitude": "37.44887",
+        "building_number": "302",
+        "crawling_name": "302동식당",
+        "id": 26
+    },
+    {
+        "longitude": "126.95247",
+        "name": "제이 김밥",
+        "name_en": "Hue Gimbab",
+        "latitude": "37.45903",
+        "building_number": "62-1",
+        "id": 27
+    },
+    {
+        "longitude": "126.95058",
+        "name": "출출박스",
+        "name_en": "StudentCenter Cafeteria(BF1)",
+        "latitude": "37.45932",
+        "building_number": "63",
+        "id": 28
+    },
+    {
+        "longitude": "126.95259",
+        "name": "퀴즈노스",
+        "name_en": "Quiznos",
+        "latitude": "37.45016",
+        "building_number": "301",
+        "id": 29
+    },
+    {
+        "longitude": "126.957457",
+        "name": "퀴즈노스(글로벌생활관)",
+        "name_en": "Quiznos",
+        "latitude": "37.464916",
+        "building_number": "915",
+        "id": 30
+    },
+    {
+        "longitude": "126.95385",
+        "name": "텐카이핀",
+        "name_en": "Tenkaippin",
+        "latitude": "37.46647",
+        "building_number": "137-2",
+        "id": 31
+    },
+    {
+        "longitude": "126.951",
+        "name": "파란코끼리",
+        "name_en": "파란코끼리",
+        "latitude": "37.46271",
+        "building_number": "16-1",
+        "id": 32
+    },
+    {
+        "longitude": "126.95385",
+        "name": "포포인",
+        "name_en": "Pho Pho In",
+        "latitude": "37.46647",
+        "building_number": "137-2",
+        "id": 33
+    },
+    {
+        "longitude": "126.95872",
+        "name": "학부기숙사식당",
+        "name_en": "Undergraduate Dormitory Cafeteria",
+        "latitude": "37.46306",
+        "building_number": "919",
+        "crawling_name": "기숙사식당",
+        "id": 34
+    },
+    {
+        "longitude": "126.95058",
+        "name": "학생회관식당(1층)",
+        "name_en": "Student Center Cafeteria(1F)",
+        "latitude": "37.45932",
+        "building_number": "63",
+        "crawling_name": "학생회관식당",
+        "id": 35
+    }
+]
